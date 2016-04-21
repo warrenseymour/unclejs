@@ -1,0 +1,19 @@
+{
+  "name": "unclejs",
+  "version": "1.0.0",
+  "description": "Tiny virtual DOM library",
+  "main": "uncle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedia/unclejs.git"
+  },
+  "author": "https://github.com/Fedia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fedia/unclejs/issues"
+  },
+  "homepage": "https://github.com/Fedia/unclejs#readme"
+}
